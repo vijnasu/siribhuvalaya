@@ -1,7 +1,4 @@
-# Siribhuvalaya
-ಸಿರಿಭೂವಲಯ ಗ್ರಂಥ ಭಂಡಾರ
-
-# Siribhuvalaya Library
+# ಸಿರಿಭೂವಲಯ ಗ್ರಂಥ ಭಂಡಾರ
 
 ## ಸಿರಿಭೂವಲಯ ಆದಿ ಖಂಡ ದರ್ಶನ
 > ಕನ್ನಡದ ಲಭ್ಯ ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಕೃತಿಯೂ ಸರ್ವಭಾಷಾಮಯೀ ಸರ್ವಶಾಸ್ತ್ರಮಯಿಯೂ ಆದ "ಸಿರಿಭೂವಲಯ"ದ ಸಾಹಿತ್ಯವನ್ನು ಕನ್ನಡಿಗರಿಗೆ ಮುಕ್ತವಾಗಿ ತಲುಪಿಸುವ ಅಳಿಲು ಸೇವೆ. ಕನ್ನಡ ಭಾಷೆಯ ಹೆಸರು ಮಾತ್ರ ಹೇಳಿಕೊಂಡು ಅದರ ನಿಜವಾದ ಅಭಿವೃದ್ಧಿಗೆ ಮಾಡಿಸಬೇಕಿದ್ದ ಸಿರಿಭೂವಲಯದ ಅಧ್ಯಯನ, ಸಂಶೋಧನೆ, ಪ್ರಕಟಣೆ ಮಾಡಿಸದ ಸರ್ಕಾರ ಮತ್ತು ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯಗಳಿಗೆ ಛೀಮಾರಿ ಹಾಕುತ್ತಾ ಸಿರಿಭೂವಲಯದ ಈ ಅಂತರ್ಜಾಲದ ಗ್ರಂಥ ಭಂಡಾರವನ್ನು ಕನ್ನಡ ನಾಡಲ್ಲಿ ಹುಟ್ಟಿ ಕನ್ನಡಿಗರೆನ್ನಿಸಿಕೊಂಡಿರುವ, ಕನ್ನಡ ನಾಡಿನ ಅನ್ನ, ನೀರು ಸೇವಿಸುತ್ತಿದ್ದು, ಕನ್ನಡದ ಬಗ್ಗೆ "ನಿಜವಾದ ಶ್ರದ್ಧೆ"ಯುಳ್ಳ ಸ್ವಭಾಷಿಗರು ಮತ್ತು ಪರಭಾಷಿಗರಿಗೆ ಸಮರ್ಪಿಸುತ್ತೇನೆ. ಕನ್ನಡಕ್ಕಾಗಿ ಏನನ್ನು ಮಾಡದಿದ್ದರೂ ಪರವಾಗಿಲ್ಲ, ಕನ್ನಡವನ್ನು ಹಾಳು ಮಾಡಬೇಡಿ. ಹುಟ್ಟಿನಿಂದಲೋ, ಪೌರತ್ವದಿಂದಲೋ ಕನ್ನಡಿಗರೆನ್ನಿಸಿಕೊಂಡ ಮೇಲೆ ಸ್ವಲ್ಪವಾದರೂ ಸಿರಿಭೂವಲಯ ಓದಿ.
@@ -71,6 +68,8 @@
 |[ಅಧ್ಯಾಯ-೫೭](siribhuvalaya/adhyaya/adhyaya-57-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೫೭](siribhuvalaya/adhyaya/adhyaya-57-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೫೭](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
 |[ಅಧ್ಯಾಯ-೫೮](siribhuvalaya/adhyaya/adhyaya-58-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೫೮](siribhuvalaya/adhyaya/adhyaya-58-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೫೮](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
 |[ಅಧ್ಯಾಯ-೫೯](siribhuvalaya/adhyaya/adhyaya-59-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೫೯](siribhuvalaya/adhyaya/adhyaya-59-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೫೯](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
+
+## ಸಿರಿಭೂವಲಯ ಖಂಡ -೧, ಅಧ್ಯಾಯ ಕ್ರಮ
 
 > [ಸಿರಿಭೂವಲಯದ ಮೊದಲನೆಯ ಖಂಡ ಶ್ರುತಾವತಾರದ ೧ನೇ ಅಧ್ಯಾಯದ ಮೂಲಸಾಹಿತ್ಯ](siribhuvalaya/khanda/2/adhyaya-1.html)
 
