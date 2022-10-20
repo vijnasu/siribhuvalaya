@@ -10,8 +10,6 @@
 
 > [ಸಿರಿಭೂವಲಯದ ಮೊದಲನೆಯ ಖಂಡ ಮಂಗಲಪ್ರಾಭೃತದ ೫೯ ಅಧ್ಯಾಯಗಳ ಮೂಲಸಾಹಿತ್ಯ](siribhuvalaya/khanda/1/adhyayas-1-59.html)
 
-> [ಸಿರಿಭೂವಲಯದ ಮೊದಲನೆಯ ಖಂಡ ಶ್ರುತಾವತಾರದ ೧ನೇ ಅಧ್ಯಾಯದ ಮೂಲಸಾಹಿತ್ಯ](siribhuvalaya/khanda/2/adhyaya-1.html)
-
 |ಸರಳ ಅಧ್ಯಾಯ ಪುಟಗಳು | ವಿಸ್ತೃತ ಅಧ್ಯಾಯ ಪುಟಗಳು | ಆಲಿಸಿರಿ  |
 | ----------- | ----------- | ----------- |
 |[ಅಧ್ಯಾಯ-೧](siribhuvalaya/adhyaya/adhyaya-1-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೧](siribhuvalaya/adhyaya/adhyaya-1-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೧](https://youtube.com/playlist?list=PLEDdG3ucHf5OyUVqhsl8ZQOWGpmILBziQ) |
@@ -23,6 +21,16 @@
 |[ಅಧ್ಯಾಯ-೭](siribhuvalaya/adhyaya/adhyaya-7-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೭](siribhuvalaya/adhyaya/adhyaya-7-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೭](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
 |[ಅಧ್ಯಾಯ-೮](siribhuvalaya/adhyaya/adhyaya-8-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೮](siribhuvalaya/adhyaya/adhyaya-8-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೮](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
 |[ಅಧ್ಯಾಯ-೯](siribhuvalaya/adhyaya/adhyaya-9-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೯](siribhuvalaya/adhyaya/adhyaya-9-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೯](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
+|[ಅಧ್ಯಾಯ-೧೦](siribhuvalaya/adhyaya/adhyaya-10-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೧೦](siribhuvalaya/adhyaya/adhyaya-10-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೧೦](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
+|[ಅಧ್ಯಾಯ-೧೧](siribhuvalaya/adhyaya/adhyaya-11-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೧೧](siribhuvalaya/adhyaya/adhyaya-11-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೧೧](https://youtube.com/playlist?list=PLEDdG3ucHf5OyUVqhsl8ZQOWGpmILBziQ) |
+|[ಅಧ್ಯಾಯ-೧೨](siribhuvalaya/adhyaya/adhyaya-12-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೧೨](siribhuvalaya/adhyaya/adhyaya-12-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೧೨](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
+|[ಅಧ್ಯಾಯ-೧೩](siribhuvalaya/adhyaya/adhyaya-13-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೧೩](siribhuvalaya/adhyaya/adhyaya-13-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೧೩](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
+|[ಅಧ್ಯಾಯ-೧೪](siribhuvalaya/adhyaya/adhyaya-14-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೧೪](siribhuvalaya/adhyaya/adhyaya-14-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೧೪](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
+|[ಅಧ್ಯಾಯ-೧೫](siribhuvalaya/adhyaya/adhyaya-15-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೧೫](siribhuvalaya/adhyaya/adhyaya-15-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೧೫](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
+|[ಅಧ್ಯಾಯ-೧೬](siribhuvalaya/adhyaya/adhyaya-16-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೧೬](siribhuvalaya/adhyaya/adhyaya-16-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೧೬](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
+|[ಅಧ್ಯಾಯ-೧೭](siribhuvalaya/adhyaya/adhyaya-17-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೧೭](siribhuvalaya/adhyaya/adhyaya-17-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೧೭](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
+|[ಅಧ್ಯಾಯ-೧೮](siribhuvalaya/adhyaya/adhyaya-18-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೧೮](siribhuvalaya/adhyaya/adhyaya-18-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೧೮](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
+|[ಅಧ್ಯಾಯ-೧೯](siribhuvalaya/adhyaya/adhyaya-19-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೧೯](siribhuvalaya/adhyaya/adhyaya-19-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೧೯](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
 |[ಅಧ್ಯಾಯ-೨೦](siribhuvalaya/adhyaya/adhyaya-20-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೨೦](siribhuvalaya/adhyaya/adhyaya-20-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೨೦](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
 |[ಅಧ್ಯಾಯ-೨೧](siribhuvalaya/adhyaya/adhyaya-21-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೨೧](siribhuvalaya/adhyaya/adhyaya-21-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೨೧](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
 |[ಅಧ್ಯಾಯ-೨೨](siribhuvalaya/adhyaya/adhyaya-22-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೨೨](siribhuvalaya/adhyaya/adhyaya-22-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೨೨](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
@@ -63,6 +71,8 @@
 |[ಅಧ್ಯಾಯ-೫೭](siribhuvalaya/adhyaya/adhyaya-57-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೫೭](siribhuvalaya/adhyaya/adhyaya-57-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೫೭](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
 |[ಅಧ್ಯಾಯ-೫೮](siribhuvalaya/adhyaya/adhyaya-58-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೫೮](siribhuvalaya/adhyaya/adhyaya-58-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೫೮](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
 |[ಅಧ್ಯಾಯ-೫೯](siribhuvalaya/adhyaya/adhyaya-59-kannada(Simple).html) | [ಅಧ್ಯಾಯ-೫೯](siribhuvalaya/adhyaya/adhyaya-59-kannada(Detail).html) | [ಅಧ್ಯಾಯ-೫೯](https://www.youtube.com/channel/UCT8sfDJto4gsQNJWZuKdZMg) |
+
+> [ಸಿರಿಭೂವಲಯದ ಮೊದಲನೆಯ ಖಂಡ ಶ್ರುತಾವತಾರದ ೧ನೇ ಅಧ್ಯಾಯದ ಮೂಲಸಾಹಿತ್ಯ](siribhuvalaya/khanda/2/adhyaya-1.html)
 
 ### ಕೃತಜ್ಞತೆ
 
